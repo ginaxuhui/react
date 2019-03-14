@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 you need run json server as database then you can run the code
+
 in the html add ui semantic cdn link and good api
 
 npm install axios lodash reat react-dom react-redux reat-router-dom redux redux-form redux-thunk
